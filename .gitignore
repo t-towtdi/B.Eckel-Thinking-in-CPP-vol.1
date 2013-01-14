@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Precompilled headers and other
+*.gch
+*.i
+*.ii
+*.s
+
+# Executables
+*.exe
