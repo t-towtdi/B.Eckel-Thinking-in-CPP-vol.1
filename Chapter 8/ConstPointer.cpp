@@ -33,4 +33,6 @@ int main() {
 //! int* ip2 = w();	// Нельзя
 	const int* const ccip = w();	// Можно
 	const int* cip2 = w();	// Можно
+}
+
 //! *w() = 1;	// Нельзя
